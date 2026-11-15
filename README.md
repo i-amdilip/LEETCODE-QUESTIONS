@@ -6,7 +6,7 @@ I’m practicing Data Structures and Algorithms (DSA) using Java and solving pro
 
 This repository contains my LeetCode solutions, covering arrays, mathematics, binary search, matrices, strings, linked lists, and other DSA concepts.
 
-## 📚 Problems Solved (55)
+## 📚 Problems Solved (57)
 
 1. Majority Element — 169
 2. Contains Duplicate — 217
@@ -63,6 +63,8 @@ This repository contains my LeetCode solutions, covering arrays, mathematics, bi
 53. Rearrange Array Elements by Sign — 2149
 54. Length of Last Word — 58
 55. Sort Colors — 75
+56. Four Divisor - 1390
+57. Check if every row and every column contains all Numbers - 2133
 
 ---
 
