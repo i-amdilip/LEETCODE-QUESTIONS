@@ -65,6 +65,7 @@ This repository contains my LeetCode solutions, covering arrays, mathematics, bi
 55. Sort Colors — 75
 56. Four Divisor - 1390
 57. Check if every row and every column contains all Numbers - 2133
+58. Harshad Number - 3099
 
 ---
 
